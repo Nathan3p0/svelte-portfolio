@@ -1,16 +1,17 @@
 <footer
-    class="py-20 sm:py-32 bg-black border-t border-solid border-violet-950 flex flex-col gap-4 sm:gap-8 justify-center items-center"
+    class="py-20 sm:py-32 bg-black border-t border-solid border-teal-950 flex flex-col gap-4 sm:gap-8 justify-center items-center"
+    id="contact"
 >
     <p class="px-4 py-2 bg-white text-slate-950 font-medium">
         Connect with me &darr;
     </p>
     <div class="flex flex-col gap-4 items-center justify-center">
-        <p><b class="pr-2">Email</b> ndszelag@gmail.com</p>
+        <p><b class="pr-2">Email</b> nszelag@nathanszelag.tech</p>
         <p>
             <b class="pr-2">GitHub</b>
             <a
                 href="https://github.com/Nathan3p0"
-                class="text-violet-400"
+                class="text-teal-400"
                 target="_blank"
                 >Nathan3p0<sup
                     ><span class="text-xs scale-75 pl-0.5"
@@ -25,7 +26,7 @@
             <b class="pr-2">LinkedIn</b>
             <a
                 href="https://www.linkedin.com"
-                class="text-violet-400"
+                class="text-teal-400"
                 target="_blank"
                 >nszelag<sup
                     ><span class="text-xs scale-75 pl-0.5"
